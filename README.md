@@ -32,7 +32,7 @@ AI: Google Gemini 1.5 Flash API
 Platform: Replit
 
 🚀 Run Locally
-git clone https://github.com/yourusername/cortexflow-ai.git
+git clone (https://github.com/theralaarunkumar/Hackathon)
 cd cortexflow-ai
 npm install
 npm run dev
